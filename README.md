@@ -6,7 +6,7 @@ https://codepen.io/likkochan/pens/
 
 
 
-<link rel="stylesheet" href="./faq/style.css">
+<link rel="stylesheet" href="./CSS/style.css">
 
 
 
