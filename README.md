@@ -6,11 +6,13 @@ https://codepen.io/likkochan/pens/
 
 
 
-<style>
-/* Стили кнопки */
-.iksweb{display: inline-block;cursor: pointer; font-size:35px;text-decoration:none;padding:21px 45px; color:#531457;background:#c6abcf;border-radius:14px;border:13px solid #c4c0d1;}
-.iksweb:hover{background:#354251;color:#ffffff;border:13px solid #354251;transition: all 0.2s ease;}
-</style>
+<link rel="stylesheet" href="./faq/style.css">
+
+
+
+
+
+
 
 <a class="iksweb" href="https://github.com/likkochan" target="_blank"  title="Pop in">Pop in</a>
 
