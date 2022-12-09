@@ -49,9 +49,9 @@ https://codepen.io/likkochan/pens/
   
   
   
-  
-  
 
+  
+<p>
 ```mermaid
 
 flowchart LR
@@ -61,7 +61,7 @@ B --> C{Decision}
 C -->|One| D[Result 1]
 C -->|Two| E[Result 2]
 ```
-
+</p>
 
 
 
