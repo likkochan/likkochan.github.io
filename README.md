@@ -51,17 +51,7 @@ https://codepen.io/likkochan/pens/
   
 
   
-<p>
-```mermaid
 
-flowchart LR
-
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
-```
-</p>
 
 
 
@@ -81,3 +71,23 @@ C -->|Two| E[Result 2]
 
 
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPCEx3wU=/?moveToViewport=-800,-655,1622,1153&embedId=587551173754" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+
+
+
+
+
+
+
+
+
+
+```mermaid
+
+flowchart LR
+
+A[Hard] -->|Text| B(Round)
+B --> C{Decision}
+C -->|One| D[Result 1]
+C -->|Two| E[Result 2]
+```
