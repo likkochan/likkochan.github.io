@@ -12,6 +12,13 @@ https://codepen.io/likkochan/pens/
 
 
 
+
+<!--Dayspedia.com widget--><iframe width='210' height='317' style='padding:0!important;margin:0!important;border:none!important;background:none!important;background:transparent!important' marginheight='0' marginwidth='0' frameborder='0' scrolling='no' comment='/*defined*/' src='https://dayspedia.com/if/analog/?v=1&iframe=eyJ3LTExIjpmYWxzZSwidy0xMyI6dHJ1ZSwidy0xNSI6dHJ1ZSwidy0xMTAiOmZhbHNlLCJ3LXdpZHRoLTAiOnRydWUsInctd2lkdGgtMSI6ZmFsc2UsInctd2lkdGgtMiI6ZmFsc2UsInctMTYiOiIyNHB4Iiwidy0xNyI6IjE2Iiwidy0yMSI6dHJ1ZSwiYmdpbWFnZSI6NCwiYmdpbWFnZVNldCI6dHJ1ZSwidy0yMWMwIjoiI2ZmZmZmZiIsInctMCI6dHJ1ZSwidy0zIjp0cnVlLCJ3LTNjMCI6IiMzNDM0MzQiLCJ3LTNiMCI6IjEiLCJ3LTIwIjp0cnVlLCJ3LTQiOiIjZjdmN2Y3Iiwidy0xOCI6ZmFsc2UsInctd2lkdGgtMmMtMCI6IjMwMCIsInctMTE1IjpmYWxzZSwidy0yMyI6dHJ1ZSwidy0yM2MwIjoiI2VmZWJlZSIsInctMjYiOmZhbHNlLCJ3LTI2YjAiOiIxIiwidy0yNyI6dHJ1ZSwidy0yN2MwIjoiIzQ4MDQyMiIsInctMjQiOiIjMzQzNDM0Iiwidy0xM2MwIjoiIzViMTUyYiIsInctMjIiOiIjZmZmYWZjIiwidy0yNSI6IjE2MCJ9&lang=ru&cityid=5720'></iframe><!--Dayspedia.com widget ENDS-->
+
+
+
+
+
 ```mermaid
 
 flowchart LR
