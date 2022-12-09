@@ -22,6 +22,15 @@ https://codepen.io/likkochan/pens/
 
 
 
+<style>
+.nav div {
+  display: inline-block;
+  }
+  </style>
+    
+
+
+
 
 <div class="nav">
 <div>
