@@ -31,7 +31,7 @@ https://codepen.io/likkochan/pens/
 
 <div class="nav">
 <div>
-  ![logo](https://user-images.githubusercontent.com/114712862/206614404-1cf52211-0a46-4a27-a192-d3fff0f4136a.jpg)
+  <a href="https://portal.tpu.ru/lyceum"><img src="logo.jpg"></a>
 </div>
   
   
