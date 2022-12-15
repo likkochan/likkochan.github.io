@@ -32,7 +32,7 @@ https://codepen.io/likkochan/pens/
 <div class="nav">
 <div>
 
-  <img src="[https://html5css.ru/images/picture.jpg](https://user-images.githubusercontent.com/114712862/207909924-6b7acb16-8c26-404e-9baa-205c5587443c.jpg)">
+  <img src="[https://portal.tpu.ru/lyceum)">
 
 </div>
   
