@@ -6,16 +6,12 @@ https://codepen.io/likkochan/pens/
 
 
 
-![png-transparent-christmas-decoration-drawing-christmas-day-garland-christmas-ings-christmas-ornament-fruit-food-vegetable](https://user-images.githubusercontent.com/114712862/206611632-9963e25b-1bd7-4f7a-9a30-286ad0f105fa.png)
 
 
 
 ![yf](https://user-images.githubusercontent.com/114712862/207907585-0d136fde-025a-4ba8-9c89-40fff235e519.jpg)
 
 
-
-
-![16293699](https://user-images.githubusercontent.com/114712862/206613791-42aa18d7-bf10-4060-b2bd-30bab504daa4.jpg)
 
 
 
