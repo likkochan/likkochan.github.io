@@ -81,8 +81,8 @@ https://codepen.io/likkochan/pens/
 
 flowchart LR
 
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
+A[Яйцо] -->|оно растет| B(ура)
+B --> C{курица}
 C -->|One| D[Result 1]
 C -->|Two| E[Result 2]
 ```
