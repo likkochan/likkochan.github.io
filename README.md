@@ -81,8 +81,8 @@ https://codepen.io/likkochan/pens/
 
 flowchart LR
 
-A[Яйцо] -->|оно растет| B(ура)
+A[яйцо] -->|оно растет| B(ура)
 B --> C{курица}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
+C -->|белая| D[яйцо]
+C -->|черная| E[яйцо]
 ```
