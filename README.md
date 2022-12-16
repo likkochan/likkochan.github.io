@@ -32,7 +32,7 @@ https://codepen.io/likkochan/pens/
 <div class="nav">
 <div>
 
-  <img src="[https://portal.tpu.ru/lyceum)">
+  <img src="собачка"> 
 
 </div>
   
