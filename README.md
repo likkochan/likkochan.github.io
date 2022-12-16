@@ -25,14 +25,10 @@ https://codepen.io/likkochan/pens/
   }
   </style>
     
-
-
-
-
 <div class="nav">
 <div>
 
-  <a href="https://portal.tpu.ru/lyceum"><img src="собачка.jpg"> </a>
+  <a href="https://portal.tpu.ru/lyceum"><img src="собачка.jpg" /> </a>
 
 </div>
   
