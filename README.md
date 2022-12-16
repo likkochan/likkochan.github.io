@@ -28,7 +28,7 @@ https://codepen.io/likkochan/pens/
 <div class="nav">
 <div>
 
-  <a href="https://portal.tpu.ru/lyceum"><img src="собачка.jpg" /> </a>
+  <a href="https://portal.tpu.ru/lyceum"><img src="собачка.jpg" width="80" height="80" /> </a>
 
 </div>
   
